@@ -1,3 +1,3 @@
 <!-- _navbar.md -->
 
-[💬联系微信客服](Wechat/Wechat.md)
+[💬联系客服](Wechat/Wechat.md)
