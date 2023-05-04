@@ -10,7 +10,7 @@
 
 [<font size=4 color=8d4bbb>【苹果id、推特号、gpt账号等等 可改密 有客服指导（点击此处购买）】</font>](http://cat.fk6699.com/)
 
-[<font size=2 color=8d4bbb>【📱如需其他国外软件接码短信服务，请联系微信客服】</font>](Wechat/Wechat.md)
+[<font size=2 color=8d4bbb>【📱如需其他国外软件接码短信服务，请联系客服】</font>](Wechat/Wechat.md)
 
 ------
 [<font size=4 color=8d4bbb>【点击购买小火箭Shadowrocket】</font>](http://cat.fk6699.com/)
